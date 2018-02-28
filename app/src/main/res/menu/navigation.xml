@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_calc_from_czk"
+        android:enabled="false"
+        android:title="@string/title_calc_from_czk" />
+
+    <item
+        android:id="@+id/navigation_calc_to_czk"
+        android:enabled="false"
+        android:title="@string/title_calc_to_czk" />
+
+
+
+</menu>

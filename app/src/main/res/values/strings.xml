@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrCon</string>
+    <string name="title_home">Home</string>
+    <string name="title_calc_from_czk">From CZK</string>
+    <string name="title_calc_to_czk">To CZK</string>
+    <string name="title_activity_calc_from_czk">Calculate from CZK</string>
+    <string name="title_activity_calc_to_czk">Calculate to CZK</string>
+</resources>
